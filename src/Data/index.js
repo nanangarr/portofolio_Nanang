@@ -1,5 +1,5 @@
 import outfitmu from '../assets/projects/E-COMMERCE.png'
-import bukalapak from '../assets/projects/bukalapak.png'
+import portofolio from '../assets/projects/portofolio.png'
 import logistik from '../assets/projects/Logistik.png'
 import pos from '../assets/projects/POS.png'
 import apkhrd from '../assets/projects/APLIKASI-HRD.png'
@@ -23,12 +23,12 @@ const projects = [
         stack: ["HTML", 'Javascript', "React", "Tailwindcss"]
     },
     {
-        name: "SISTEM Company",
-        image: bukalapak,
-        url_github: "https://github.com/adityardiansyah/bukalapak",
-        url_demo: "https://bukalapak-landing.vercel.app/",
+        name: "Portofolio",
+        image: portofolio,
+        url_github: "https://github.com/nanangarr/portofolio_Nanang",
+        url_demo: "https://portofolio-nanang.vercel.app/",
         category: "frontend",
-        stack: ["HTML", "Tailwind", 'Javascript', 'Vue']
+        stack: ["HTML", 'Javascript', "React", "Tailwindcss"]
     },
     {
         name: "Mobile App Design HRD",
